@@ -1,0 +1,9 @@
+﻿{
+  "name": "LoxMod",
+  "description": "Modifying Loxes across Valheim.",
+  "version_number": "0.0.1",
+  "website_url": "",
+  "dependencies": [
+    "ValheimModding-Jotunn-2.5.1",
+  ]
+}
